@@ -1,3 +1,3 @@
 # flappy-bird-assets
 
-Assets to develop the Flappy Bird Game
+just double click on index.html file
